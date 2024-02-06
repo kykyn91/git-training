@@ -2,6 +2,6 @@
 
 echo "Aiman Handsome";
 
-echo "Piye ensem";
+echo "Jimi Neutron";
 
-echo "Pian Duye";
+echo "Rashdan Power";
