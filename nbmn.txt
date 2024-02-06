@@ -6,4 +6,5 @@ echo "1. git add . / git add <nama_file>";
 echo "2. git commit";
 echo "3. git push";
 
+echo "test";
 ?>
