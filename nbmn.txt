@@ -7,4 +7,34 @@ echo "2. git commit";
 echo "3. git push";
 
 echo "test";
+
+CREATE TABLE `users` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `userid` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `name` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `lastname` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `email` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `email_verified_at` timestamp NULL DEFAULT NULL,
+  `password` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `image` varchar(150) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `remember_token` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `DepartmentID` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  `validfrom` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `validto` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `IsActive` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `role` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `role_id` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `phone` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `date_request` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `official_last_day` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `date_inactive` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `remark_reason` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `last_login` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `UpdatedOn` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`id`) USING BTREE,
+  UNIQUE KEY `users_email_unique` (`email`) USING BTREE
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
 ?>
