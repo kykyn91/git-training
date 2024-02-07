@@ -12,7 +12,6 @@ echo "Piye CHATGPT";
 
 
 echo "Jimi Neutron";
-
 echo "Piye ensem";
 
 echo "Rashdan Power";
@@ -32,4 +31,10 @@ echo "Eira Syomell"
 echo "Piu Piu";
 
 echo "Miu Miu";
+
+
+echo "saje buat conflict";
+
+
+echo "mamz test conflict";
 
