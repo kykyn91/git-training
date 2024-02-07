@@ -12,5 +12,7 @@ echo "Jimi Neutron";
 echo "Piye ensem";
 
 echo "Rashdan Power";
->>>>>>> c58bfc7f4cac986d91f11a939b16875c797d5269
+
 echo "Eira Syomel";
+
+echo "Miu miu";
