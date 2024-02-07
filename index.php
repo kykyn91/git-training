@@ -8,6 +8,7 @@ echo "Piye CHATGPT";
 
 
 echo "Jimi Neutron";
+
 echo "Piye ensem";
 
 echo "Rashdan Power";
