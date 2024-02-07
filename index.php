@@ -1,6 +1,19 @@
 
 <?php
 
+echo "Pian semak lajok";
+
+
+echo "Aiman Handsome";
+
+echo "Jimi Neutron";
+
+echo "Piye ensem";
+
+echo "Rashdan Power";
+
+echo "Piye Encem <3 <3";
+
 echo "make changes here";
 
 echo "cuba change di branch nbmn_2024 bukan di main";
@@ -37,4 +50,3 @@ echo "saje buat conflict";
 
 
 echo "mamz test conflict";
-
