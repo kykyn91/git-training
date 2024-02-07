@@ -1,17 +1,52 @@
+
 <?php
 
-<<<<<<< HEAD
 echo "Pian semak lajok";
 
-=======
-<<<<<<< HEAD
+
 echo "Aiman Handsome";
 
 echo "Jimi Neutron";
-=====
+
 echo "Piye ensem";
->>>>>>> 097a85d7639fac1758899cd3fd107f8ce058fe9a
+
 echo "Rashdan Power";
 
 echo "Piye Encem <3 <3";
->>>>>>> d3ea0923aeed3c99cafe576582ec05969c3aaa09
+
+echo "make changes here";
+
+echo "cuba change di branch nbmn_2024 bukan di main";
+
+echo "Aiman Handsome";
+
+echo "Eira";
+echo "Piye CHATGPT";
+
+
+echo "Jimi Neutron";
+echo "Piye ensem";
+
+echo "Rashdan Power";
+
+
+echo "Piye Encem <3 <3";
+echo "Moci Moci"
+
+echo "Eiraaaaa";
+
+echo "Miu miu";
+
+echo "mamz add to test conflict function";
+
+echo "Eira Syomell"
+
+echo "Piu Piu";
+
+echo "Miu Miu";
+
+
+echo "saje buat conflict";
+
+
+echo "mamz test conflict";
