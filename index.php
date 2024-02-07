@@ -17,6 +17,10 @@ echo "Piye ensem";
 
 echo "Rashdan Power";
 
+
+echo "Piye Encem <3 <3";
+echo "Moci Moci"
+
 echo "Eiraaaaa";
 
 echo "Miu miu";
@@ -28,3 +32,4 @@ echo "Eira Syomell"
 echo "Piu Piu";
 
 echo "Miu Miu";
+
