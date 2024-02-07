@@ -43,10 +43,13 @@ echo "Eira Syomell"
 
 echo "Piu Piu";
 
-echo "Miu Miu";
+echo "nsi powerrr";
 
 
 echo "saje buat conflict";
 
 
 echo "mamz test conflict";
+
+echo "nsi"
+	
